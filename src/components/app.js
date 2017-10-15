@@ -5,7 +5,10 @@ class App {
   }
 
   render() {
-    //your code here as well  
+    //your code here as well
   }
 
+  deleteList(){
+    console.log('deleted the list')
+  }
 }
